@@ -40,4 +40,19 @@ when connection bigger than 30miles between man then we call it wan for example 
 
 we called all this device ::: ```Node```
 
-comminucation media
+communications media
+
+--------------------------
+
+Internet -
+servers - web server - 
+client and host - 
+
+-------------------------------------------
+
+Network InterFace card = NIC
+
+-------
+Protocol
+
+------
