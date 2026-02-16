@@ -56,3 +56,14 @@ Network InterFace card = NIC
 Protocol
 
 ------
+
+http:// www.somesite.com/index.php
+  |            |            |
+protocol     server       file
+              name
+   
+--------------
+Bus Topology: (layout)  ----
+Ring Topology:          ⭕
+Star Topology:          ⭐
+Mesh Topology:           
