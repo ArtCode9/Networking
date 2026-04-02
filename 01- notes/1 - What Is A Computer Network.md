@@ -64,6 +64,20 @@ protocol     server       file
    
 --------------
 Bus Topology: (layout)  ----
+
 Ring Topology:          ⭕
+
 Star Topology:          ⭐
-Mesh Topology:           
+
+Mesh Topology:
+
+--------------------------------------
+
+OSI Model:
+Application : Firefox / Chrome / Email
+
+Presentation layer : o.s letters and number -> ASC11
+
+Session : Conversation between 2 Computers
+
+Transport : Packet are delivered
